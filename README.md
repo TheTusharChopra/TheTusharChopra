@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetusharchopra&label=Profile%20views&color=0e75b6&style=flat" alt="thetusharchopra" /> </p>
 <p align="left"> <a href="https://twitter.com/tusharchopra_" target="blank"><img src="https://img.shields.io/twitter/follow/tusharchopra_?logo=twitter&style=for-the-badge" alt="tusharchopra_" /></a> </p>
 
-- 🔭 I’m currently working on **JEE😭**
+- 🔭 I’m currently working on **C++😭**
 
 - 🌱 I’m currently learning about **Backdoors**
 
-- 👨‍💻 Some of my achievements are available at [https://in.linkedin.com/in/tusharchopra02](https://in.linkedin.com/in/tusharchopra02)
+- 👨‍💻 Some of my achievements are available at [https://in.linkedin.com/in/tusharchopra01](https://in.linkedin.com/in/tusharchopra02)
 
 - 💬 Ask me about **Cyber Security**
 
