@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Chopra</h1>
 <h3 align="center">A Passionate Cyber Security Enthusiast.</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/KmPFMGQ07-4AAAAM/hffgf.gif">
+<img align="right" alt="Coding" width="180" src="https://media.tenor.com/KmPFMGQ07-4AAAAM/hffgf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetusharchopra&label=Profile%20views&color=0e75b6&style=flat" alt="thetusharchopra" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thetusharchopra" alt="thetusharchopra" /></a> </p>
 <p align="left"> <a href="https://twitter.com/tusharchopra_" target="blank"><img src="https://img.shields.io/twitter/follow/tusharchopra_?logo=twitter&style=for-the-badge" alt="tusharchopra_" /></a> </p>
